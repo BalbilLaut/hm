@@ -21,17 +21,17 @@ p {
 
 .options {
     display: flex;
-    gap: 15px;
     justify-content: center;
+    gap: 20px;
 }
 
 .option {
     background-color: #4CAF50;
-    color: #fff;
+    color: white;
     padding: 10px 25px;
     border-radius: 5px;
     text-decoration: none;
-    transition: background-color 0.3s;
+    font-weight: bold;
 }
 
 .option:hover {
